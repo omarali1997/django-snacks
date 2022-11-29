@@ -23,7 +23,7 @@
 > - Any tests of note?
 `no`
 
-> - Describe any tests that you did not complete, skipped, etc
+> - Describe any tests 
 
 `Test that home and about url status codes`
 
